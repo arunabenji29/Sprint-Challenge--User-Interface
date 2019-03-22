@@ -80,11 +80,6 @@ p {
     
 }
 
-/* .lamb-logo{
-    
-    
-} */
-
 .anchor-content{
     
     display:flex;
@@ -136,7 +131,7 @@ a{
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    /* background: black; */
+    
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -203,7 +198,7 @@ footer {
     height:58px;
     margin:15px 0;
     background: black;
-    /* border:2px solid green; */
+    
     padding-bottom:20px;
 }
 
@@ -224,7 +219,7 @@ footer nav a {
 }
 
 .first-content{
-    /* border:1px solid red; */
+    
     padding:20px;
     border-bottom:1px dashed black;
 }
@@ -249,7 +244,7 @@ footer nav a {
 }
 
 .second-content-1 p{
-    /* border:1px solid purple; */
+    
 }
 
 button{
@@ -263,6 +258,87 @@ button{
 }
 
 .last-content{
-    /* border:1px solid black; */
+    
     padding:20px;
+}
+
+
+.contact{
+    width:500px;
+    height:530px;
+    margin:40px 0;
+    border:1px solid black;
+}
+
+.contact-us{
+    
+    width:500px;
+    height:200px;
+    
+}
+
+
+
+.contact-1{
+    
+    height:50px;
+    display:flex;
+    justify-content: space-around;
+}
+
+.contact-1 div{
+    
+    display:flex;
+    align-items:center;
+    width:220px;
+    height:40px;
+}
+
+
+
+.button-1{
+    border:2px solid lightgrey;
+    font-size:17px;
+    color:lightgray;
+    
+    display:flex;
+    justify-content: center;
+}
+
+.contact-2{
+    
+    height:80px;
+    display:flex;
+    justify-content: space-around;
+}
+
+.contact-2 div{
+    
+    display:flex;
+    align-items:center;
+    width:220px;
+}
+
+
+
+.button-2{
+    border:2px solid lightgrey;
+    font-size:17px;
+    color:lightgray;
+    
+    height:80px;
+    
+    display:flex;
+    justify-content: center;
+}
+
+.button-3{
+    border:2px solid black;
+    font-size:17px;
+    color:brown;
+    background:lightgray;
+    border-radius: 10px;
+    margin:20px;
+    width:130px;
+    height:40px;
 }
